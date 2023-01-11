@@ -1,9 +1,9 @@
 import './css/App.css'
-import { Cards } from './components/Cards/Cards.jsx'
+import { ItemList } from './components/Cards/Cards.jsx'
 export function App() {
 
   return (
-      <Cards/>
+      <ItemList/>
   )
 }
 
